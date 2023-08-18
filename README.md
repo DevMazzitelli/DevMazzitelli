@@ -1,16 +1,17 @@
-### Hi there 👋
+## Salut ! 👋
+Je suis passionné par le développement web et j'ai acquis de l'expérience dans plusieurs technologies clés. Mon profil est axé sur Angular, PHP et Symfony, et j'adore travailler sur des projets qui me permettent d'explorer et d'améliorer mes compétences dans ces domaines.
 
-<!--
-**DevMazzitelli/DevMazzitelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Technologies et compétences :
 
-Here are some ideas to get you started:
+**Angular**: J'ai une solide expérience dans le développement d'applications front-end avec Angular. J'aime créer des interfaces utilisateur interactives et conviviales en utilisant les concepts modernes de ce framework.
+**PHP & Symfony**: Je suis familier avec le développement back-end en PHP, en particulier avec le framework Symfony. Créer des API robustes et maintenables est l'une de mes priorités lorsque je travaille sur des projets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projets:
+- J'ai réalisé mon portfolio en Angular, pù j'ai pu développé d'avantage mes compétences dans ce langague pour améliorer l'expérience utilisateur et l'efficacité du code.
+- J'ai également travaillé sur des applications web personnelles et des projets académiques, en utilisant Symfony pour construire des back-ends solides et performants.
+
+N'hésitez pas à me contacter si vous souhaitez discuter de développement web, échanger des idées ou explorer des collaborations intéressantes. Connectons-nous et construisons quelque chose de génial ensemble !
+
+### 📫 Comment me joindre:
+[Mon LinkedIn](https://www.linkedin.com/in/ryan-mazzitelli-907716262/)
+[Mon Email](DevMazzitelli@gmail.com)
