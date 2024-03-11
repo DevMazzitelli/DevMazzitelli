@@ -14,5 +14,7 @@ N'hésitez pas à me contacter si vous souhaitez discuter de développement web,
 
 ### 📫 Comment me joindre:
 [Mon LinkedIn](https://www.linkedin.com/in/ryan-mazzitelli-907716262/)
+[Mon site internet (entreprise](https://uniik.fr/)
+[Mon portfolio](https://ryan-mazzitelli.fr/)
 
 **Mon Email**: DevMazzitelli@gmail.com
