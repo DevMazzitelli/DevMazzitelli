@@ -22,4 +22,3 @@ N'hésitez pas à me contacter si vous souhaitez discuter de développement web,
 **Mon Email**: DevMazzitelli@gmail.com
 
 [![Les Stats GitHub de DevMazzitelli](https://github-readme-stats.vercel.app/api?username=DevMazzitelli)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMazzitelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
