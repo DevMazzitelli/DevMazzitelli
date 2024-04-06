@@ -20,3 +20,5 @@ N'hésitez pas à me contacter si vous souhaitez discuter de développement web,
 [Mon portfolio](https://ryan-mazzitelli.fr/)
 
 **Mon Email**: DevMazzitelli@gmail.com
+
+[![Les Stats GitHub de DevMazzitelli](https://github-readme-stats.vercel.app/api?username=DevMazzitelli)](https://github.com/anuraghazra/github-readme-stats)
